@@ -1,0 +1,9 @@
+aws_access_key: "AKIAIAUSEJYJ7JFLKYAQ"
+aws_secret_key: "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"
+key_name: mohit_firstkeypair
+aws_region: us-east-1
+vpc_id: vpc-89f351f1
+ami_id: ami-97785bed
+instance_type: t2.micro
+my_local_cidr_ip: 10.2.2.15/32
+
